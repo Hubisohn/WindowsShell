@@ -1,0 +1,3 @@
+C:/Users/manue/Desktop/OwnShell/cmake-build-debug/CMakeFiles/OwnShell.dir
+C:/Users/manue/Desktop/OwnShell/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/manue/Desktop/OwnShell/cmake-build-debug/CMakeFiles/rebuild_cache.dir

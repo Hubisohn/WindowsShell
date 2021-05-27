@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\OwnShell.dir/objects.a
+C:\MinGW-W64\mingw64\bin\ar.exe cr CMakeFiles\OwnShell.dir/objects.a @CMakeFiles\OwnShell.dir\objects1.rsp
+C:\MinGW-W64\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\OwnShell.dir/objects.a -Wl,--no-whole-archive  -o OwnShell.exe -Wl,--out-implib,libOwnShell.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\OwnShell.dir\linklibs.rsp
